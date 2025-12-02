@@ -28,11 +28,9 @@ Unlike `std::vector`, this implementation is built **from scratch** to illustrat
 ## File Structure
 ```
 
-DSA-y2/
-│
-├─ array/
-│ ├─ Array.h # Header containing the Array ADT implementation
-│ └─ main.cpp # Example usage of the Array ADT
+/
+├─ Array.h # Header containing the Array ADT implementation
+└─ main.cpp # Example usage of the Array ADT
 
 ````
 
